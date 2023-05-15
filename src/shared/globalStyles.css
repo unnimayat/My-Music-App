@@ -1,0 +1,9 @@
+.screen-container{
+    width: calc(100% - 100px);
+    height: 100%;  
+    background: radial-gradient(ellipse at 49% 51%,#495c83, #7774be, #c8b6e2);
+    border-radius: 30px;
+}
+.flex{
+    display: flex;
+}
