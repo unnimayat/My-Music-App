@@ -1,0 +1,13 @@
+.widgets-body{
+    width: 90%;
+    height: 50%;
+    margin: 2% auto 3%;
+    background: #495c83;
+    border-radius: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    background: radial-gradient(ellipse at 49% 51%,#495c83, #7774be, #c8b6e2);
+    -webkit-backdrop-filter: blur(12.5px);
+    backdrop-filter: blur(12.5px);
+
+}
